@@ -1,0 +1,4 @@
+sqlalchemy
+requests
+datetime
+psycopg2
